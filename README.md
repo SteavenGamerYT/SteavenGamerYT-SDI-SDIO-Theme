@@ -1,8 +1,8 @@
 # SteavenGamerYT-SDI-SDIO-Theme
 SteavenGamerYT SDI &amp; SDIO Theme
 
-# SDI
+## SDI
 ![SDI](Screenshots/SDI.jpg)
 
-# SDIO
+## SDIO
 ![SDIO](Screenshots/SDIO.jpg)
